@@ -75,6 +75,10 @@ p {
 .cadeau {
   cursor:help;
 }
+.jojofoto{
+  width:400px;
+  border:solid black 1px;
+}
 .gateau {
   width:70px;
   padding-left: 0px;
